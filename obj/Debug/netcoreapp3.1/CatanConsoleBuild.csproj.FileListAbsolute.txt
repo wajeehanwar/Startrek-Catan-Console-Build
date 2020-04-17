@@ -1,0 +1,12 @@
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/bin/Debug/netcoreapp3.1/CatanConsoleBuild.deps.json
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/bin/Debug/netcoreapp3.1/CatanConsoleBuild.runtimeconfig.json
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/bin/Debug/netcoreapp3.1/CatanConsoleBuild.runtimeconfig.dev.json
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/bin/Debug/netcoreapp3.1/CatanConsoleBuild.dll
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/bin/Debug/netcoreapp3.1/CatanConsoleBuild.pdb
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/obj/Debug/netcoreapp3.1/CatanConsoleBuild.csprojAssemblyReference.cache
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/obj/Debug/netcoreapp3.1/CatanConsoleBuild.csproj.CoreCompileInputs.cache
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/obj/Debug/netcoreapp3.1/CatanConsoleBuild.AssemblyInfoInputs.cache
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/obj/Debug/netcoreapp3.1/CatanConsoleBuild.AssemblyInfo.cs
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/obj/Debug/netcoreapp3.1/CatanConsoleBuild.dll
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/obj/Debug/netcoreapp3.1/CatanConsoleBuild.pdb
+/Users/wajeeh/Desktop/Visual Studio/CatanConsoleBuild/obj/Debug/netcoreapp3.1/CatanConsoleBuild.genruntimeconfig.cache
